@@ -43,7 +43,7 @@
         android:layout_marginTop="16dp"
         android:gravity="center"
         android:singleLine="false"
-        android:text="Mordy dabah ID: 203507017\nLior Vaknin ID: 208574046\nIsrael Haddad ID: 305112005"
+        android:text="Mordy dabah"
         android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
