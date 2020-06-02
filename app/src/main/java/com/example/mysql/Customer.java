@@ -1,9 +1,6 @@
-/* Assignment: 1.1
-Campus: Ashdod
-Authors:    Mordy dabah, ID: 203507017
-            Lior Vaknin, ID: 208574046
-            Israel Haddad, ID: 305112005
-*/
+
+//Author: Mordy dabah
+
 
 package com.example.mysql;
 
